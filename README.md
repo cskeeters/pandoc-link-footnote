@@ -1,4 +1,4 @@
-This is a pandoc filter designed to be used with [Pandoc Typst PDF (`ptp`)](https://github.com/cskeeters/ptp) that outputs URLs for links as footnotes.  This makes the URLs usefull when the document is printed.
+This is a pandoc filter designed to be used with [Pandoc Typst PDF (`ptp`)](https://github.com/cskeeters/ptp) that outputs URLs for links as footnotes.  This makes the URLs useful when the document is printed.
 
 ```markdown
 ---
